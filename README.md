@@ -6,3 +6,5 @@ This game is run by an Arduino Due, music is output by an Arduino Uno, and an os
 The game terrain was built in a spreadsheet: terrain_builder.csv
 
 Terrain is easily converted into use in due_game.ino using the python notebook: terrain_compiler.ipynb
+
+Demonstration video at https://www.youtube.com/watch?v=0Jd6WMV6zR4
