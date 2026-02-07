@@ -8,3 +8,9 @@ The game terrain was built in a spreadsheet: `terrain_builder.csv`
 Terrain is easily converted into use in `due_game.ino` using the python notebook: `terrain_compiler.ipynb`
 
 Demonstration video at https://www.youtube.com/watch?v=0Jd6WMV6zR4
+
+## Game Display
+<img width="1376" height="1032" alt="xy_image" src="https://github.com/user-attachments/assets/1374218c-557e-4e24-9eb3-718516abc66e" />
+
+## Physical Setup
+![setup](https://github.com/user-attachments/assets/f6f2c728-8ee5-41f6-9281-6a81582fc870)
